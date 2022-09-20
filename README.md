@@ -4,13 +4,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp;I Studied Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp;I Studied Computer Science, computer programming.
 - 💼 &nbsp; front-end web developer.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript |TypeScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript |TypeScript | Bootstrap | React.js | Django
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
